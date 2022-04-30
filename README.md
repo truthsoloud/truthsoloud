@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @truthsoloud. I'm major in Computer engineering.
 - 👀 I’m interested in web programming.
-- 🌱 I’m currently learning about Svelte.
+- 🌱 I’m currently learning about Node.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
