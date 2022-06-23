@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20JayRyu%20%20&height=200&fontSize=100)
 
-***
+
 
 ##  Node.js 커리큘럼
 
