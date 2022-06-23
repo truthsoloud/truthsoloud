@@ -1,8 +1,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20JayRyu%20%20&height=200&fontSize=100)
 
-#Hi, My name is Jay Ryu. You can call me Horang🐯
-###Welcome to my GitHub!
+# Hi, My name is Jay Ryu. You can call me Horang🐯
+
+### Welcome to my GitHub!
 
 ##  Node.js 커리큘럼
 
