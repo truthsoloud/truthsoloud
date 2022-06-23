@@ -1,6 +1,8 @@
+<center>
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20JayRyu%20%20&height=200&fontSize=100)
 
-
+Hi, My name is Jay Ryu. You can call me Horang🐯
+Welcome to my GitHub!
 
 ##  Node.js 커리큘럼
 
@@ -16,6 +18,8 @@
 |  8주차  | ☑️ | ☑️ | API 개발(Get) 실습 |
 |  9주차  | ☑️ | ☑️ | API 개발(post, patch, delete) 실습 |
 |  10주차 | ☑️ | ☑️ | API 개발 심화-Paging, Transaction 및 JWT 적용 |
+  
+</center>
 
 <div align=center><h1>📚 STACKS</h1></div>
 
