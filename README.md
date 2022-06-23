@@ -8,7 +8,8 @@
 <br></br>
 
 <div align=center> <h1>Node.js 커리큘럼</h1> </div>
-
+<div align=center>
+ 
 | Week | Lecture | 과제 |커리큘럼 내용 |
 | ------ | -- | -- |----------- |
 |  1주차  | ☑️ | ☑️ | 서버란 무엇인가-개요/특징/구성/APM, 리눅스 실습 |
@@ -21,7 +22,7 @@
 |  8주차  | ☑️ | ☑️ | API 개발(Get) 실습 |
 |  9주차  | ☑️ | ☑️ | API 개발(post, patch, delete) 실습 |
 |  10주차 | ☑️ | ☑️ | API 개발 심화-Paging, Transaction 및 JWT 적용 |
-
+</div>
 <br></br>
 
 <div align=center> <h1>📚 STACKS</h1> </div>
@@ -34,6 +35,7 @@
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
+<img src="https://img.shields.io/badge/datagrip-000000?style=for-the-badge&logo=datagrip&logoColor=white">
 
 ## 🦾 Can use & understand
 
@@ -42,7 +44,8 @@
 <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-  <img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=black">
+<img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=black">
+<img src="https://img.shields.io/badge/atom-66595C?style=for-the-badge&logo=Atom&logoColor=white">
 
 ## 👀 Used at least Once
 
