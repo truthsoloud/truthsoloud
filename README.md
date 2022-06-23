@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=I'm Jay Ryu.👋
-You can call me Horang🐯&fontSize=90)
+
 
 ***
 
