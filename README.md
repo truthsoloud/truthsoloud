@@ -62,7 +62,7 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
-  
+  <br></br>
 <div align=center>
  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftruthsoloud&count_bg=%230D00FF&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=horang&edge_flat=false)](https://hits.seeyoufarm.com)             
