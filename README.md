@@ -4,7 +4,12 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<img src="https://img.shields.io/badge/HTML-#FFCA28?style=flat-square&logo=html5&logoColor=white"/>
+<div align=center><h1>📚 STACKS</h1></div>
+
+<div align=center> 
+<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+
+
 
 <!---
 truthsoloud/truthsoloud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
