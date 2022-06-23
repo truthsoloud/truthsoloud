@@ -7,7 +7,7 @@
 
 <br></br>
 
-##  Node.js 커리큘럼
+<div align=center> <h1>Node.js 커리큘럼</h1> </div>
 
 | Week | Lecture | 과제 |커리큘럼 내용 |
 | ------ | -- | -- |----------- |
@@ -24,8 +24,8 @@
 
 <br></br>
 
-<h1>📚 STACKS</h1>
-<div>
+<div align=center> <h1>📚 STACKS</h1> </div>
+<div align=center>
 ## 💻 Mainly used
  
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">  
