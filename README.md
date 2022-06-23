@@ -1,10 +1,13 @@
+<div align=center>
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20JayRyu%20%20&height=200&fontSize=100)
+ </div>
+ <div align=center>
 
 # Hi, My name is Jay Ryu. You can call me Horang🐯
 
 ### Welcome to my GitHub!
-
+</div>
 <br></br>
 
 <div align=center> <h1>Node.js 커리큘럼</h1> </div>
