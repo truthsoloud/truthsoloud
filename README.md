@@ -8,8 +8,6 @@
 
 ### Welcome to my GitHub!
 </div>
-<br></br>
-
 <div align=center>
  
 ![truthsoloud's github stats](https://github-readme-stats.vercel.app/api?username=truthsoloud&show_icons=true)
