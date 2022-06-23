@@ -1,3 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi, I'm Jay Ryu.👋
+You can call me Horang🐯&fontSize=90)
+
+***
+
 ##  Node.js 커리큘럼
 
 | Week | Lecture | 과제 |커리큘럼 내용 |
