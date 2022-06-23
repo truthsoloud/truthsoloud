@@ -10,6 +10,10 @@
 </div>
 <br></br>
 
+
+![truthsoloud's github stats](https://github-readme-stats.vercel.app/api?username=truthsoloud&show_icons=true)
+
+
 <div align=center> <h1>Node.js 커리큘럼</h1> </div>
 <div align=center>
  
