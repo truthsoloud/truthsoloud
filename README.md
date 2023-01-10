@@ -10,7 +10,7 @@
 </div>
 <div align=center>
  
-![truthsoloud's github stats](https://github-readme-stats.vercel.app/api?username=truthsoloud&show_icons=true)
+![truthsoloud's github stats](https://github-readme-stats.vercel.app/api?username=truthsoloud&show_icons=true&theme=solarized-light)
 
  </div>
 
