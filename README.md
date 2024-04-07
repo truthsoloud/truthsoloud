@@ -9,8 +9,6 @@
 ### Welcome to my GitHub!
 </div>
 <div align=center>
- 
-![truthsoloud's github stats](https://github-readme-stats.vercel.app/api?username=truthsoloud&show_icons=true&theme=solarized-light)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=moltack)
 
  </div>
